@@ -1,6 +1,6 @@
 # machine program
 
-    ![alt text](https://github.com/riyadzaigirdar/iris-flower-ml/blob/develop/tree.png?raw=true)
+![alt text](https://github.com/riyadzaigirdar/iris-flower-ml/blob/develop/tree.png?raw=true)
 
     1. train model (run -> 100 time automated scipt)
     2. get max accuracy score
