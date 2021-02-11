@@ -1,4 +1,6 @@
 # IMPORTANT: need to install brew install gprof2dot (on mac)
+# https://www.geeksforgeeks.org/stringio-module-in-python/
+# https://github.com/pydot/pydot
 import pydot
 import numpy as np
 from sklearn.datasets import load_iris
